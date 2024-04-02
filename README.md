@@ -28,6 +28,13 @@ The Java Language programming course known as "Programming 2" at the University 
 
 - [x] 5. Domača naloga (20 points)
 
+## Quizes / Kvizi
+
+- [x] Kviz 1
+- [x] Kviz 2
+- [x] Kviz 3
+- [x] Kviz 4
+
 ## Exams / Izpiti
 
  ```sh
