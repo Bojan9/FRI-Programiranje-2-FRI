@@ -31,22 +31,36 @@ The Java Language programming course known as "Programming 2" at the University 
 ## Exams / Izpiti
 
  ```sh
+ 2020
+ ```
+- [x] 2020 - Exam I - PDF
+- [x] 2020 - Exam II - PDF
+- [x] 2020 - Exam III - PDF
+
+ ```sh
  2022
  ```
 - [x] 2022 - Exam I - PDF
-- [x] 2022 - Exam I - Task I
-- [x] 2022 - Exam I - Task II
-- [x] 2022 - Exam I - Task III
-- [x] 2022 - Exam I - Task IV
-- -------------------------------
 - [x] 2022 - Exam II - PDF
-- [x] 2022 - Exam II - Task I
-- [x] 2022 - Exam II - Task II
-- [x] 2022 - Exam II - Task III
-- [x] 2022 - Exam II - Task IV
-- -------------------------------
 - [x] 2022 - Exam III - PDF
-- [x] 2022 - Exam III - Task I
-- [x] 2022 - Exam III - Task II
-- [x] 2022 - Exam III - Task III
-- [x] 2022 - Exam III - Task IV
+
+ ```sh
+ 2023
+ ```
+- [x] 2023 - Exam I - PDF
+- [x] 2023 - Exam I - Task I
+- [x] 2023 - Exam I - Task II
+- [x] 2023 - Exam I - Task III
+- [x] 2023 - Exam I - Task IV
+- -------------------------------
+- [x] 2023 - Exam II - PDF
+- [x] 2023 - Exam II - Task I
+- [x] 2023 - Exam II - Task II
+- [x] 2023 - Exam II - Task III
+- [x] 2023 - Exam II - Task IV
+- -------------------------------
+- [x] 2023 - Exam III - PDF
+- [x] 2023 - Exam III - Task I
+- [x] 2023 - Exam III - Task II
+- [x] 2023 - Exam III - Task III
+- [x] 2023 - Exam III - Task IV
